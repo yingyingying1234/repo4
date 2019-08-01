@@ -3,3 +3,6 @@ public class fiest {
         System.out.printf("hello");
     }
 }
+    public void test(){
+
+    }
